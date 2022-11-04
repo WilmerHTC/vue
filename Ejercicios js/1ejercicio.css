@@ -1,0 +1,38 @@
+*{
+    margin:auto;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    padding: 2;
+    box-sizing:content-box;
+    justify-content: center;
+}
+header{
+    background-color:rgb(13, 7, 7);
+    color:#f6f1f1;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+#foot{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+/*  
+main{
+    background-color:white;
+    height: 80vh;
+    display:contents;
+}
+footer{
+    background-color:blueviolet;
+    color:white;
+    height: 10vh;
+}
+article{
+    border:1px border solid black;
+    background-color: blue;
+    width: 25%;
+}
+*/
